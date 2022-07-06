@@ -4,6 +4,7 @@ To access all deals, trades by id, and some advanced search filters from the tra
 
 ## Installation
 ```console
+$ pip install pipenv
 $ pipenv shell --python 3.8
 $ pipenv install fastapi
 $ pipenv install fastapi-pagination
